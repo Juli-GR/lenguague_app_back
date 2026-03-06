@@ -1,0 +1,46 @@
+[
+    [
+        "door",
+        "table",
+        "ceiling",
+        "wall",
+        "sofa",
+        "window",
+        "towels",
+        "books",
+        "floor",
+        "windows",
+        "shower",
+        "toilet",
+        "refrigerator",
+        "towel",
+        "book",
+        "chair",
+        "cceiling"
+    ],
+    [
+        "rug",
+        "curtain",
+        "shell",
+        "washing machines",
+        "bathtub",
+        "cabinets",
+        "cabinet",
+        "curtains",
+        "shells",
+        "handle"
+    ],
+    [
+        "lid",
+        "countertop",
+        "tap wrench",
+        "outlet",
+        "outet",
+        "faucet"
+    ],
+    [
+        "kitchen island",
+        "curtain rod",
+        "cistern"
+    ]
+]
