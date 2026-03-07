@@ -30,7 +30,6 @@ async def root():
 @app.get("/create_game")
 def create_game(difficulty : int =1, n : int =3):
     """
-    
     This GET endpoint returns n random words, with their
     respective n random images to find them
     and where are the objects in each image
@@ -42,8 +41,6 @@ def create_game(difficulty : int =1, n : int =3):
         From 1 (easiest) to 4 (hardest)
     n : int
         The amount of questions
-
-
     """
 
     if (n<1):

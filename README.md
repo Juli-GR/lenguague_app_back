@@ -1,5 +1,6 @@
-# Languagues App - Backend
+# Languages App - Backend
 
+The database used in this project is ADE20K  
 It is recommended to run the project in a virtual environment  
 
 ## Install requirements
